@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Hacker Mini AI Terminal",
+  "version": "2.0",
+  "description": "Tarayıcı içinde çalışan hacker ve analiz terminali.",
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "scripting",
+    "clipboardWrite"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
